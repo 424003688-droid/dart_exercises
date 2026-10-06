@@ -1,0 +1,9 @@
+name: dart_exercises
+description: A Dart console application demonstrating variables, data types, operators, and I/O for PC16 Mobile Development.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
